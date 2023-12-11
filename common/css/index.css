@@ -87,12 +87,12 @@ section{
 .part1{
     display: flex;
     flex-wrap: wrap;
-    justify-content:space-evenly;
+
     align-items: flex-start; 
     width: 100%;
 }
 .w18{
-    width: 18%;
+    width: 12%;
     overflow: hidden;
     text-align: center;
     position: relative;
